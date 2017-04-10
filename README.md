@@ -1,0 +1,2 @@
+# Girlcode
+Personal Coding Journey
